@@ -8,14 +8,14 @@ theme = "photo-grid"
     # Meta
     no_exif = true
     title = "Photography Portfolio"
-    subtitle = "This is a collection of some of my favorite photographs from my photography journey so far, please enjoy! Click on an image for more info!"
+    subtitle = "This is a collection of some of my photography, please enjoy! Click on an image for more info! -- I made this static site with GoLang [Hugo](https://github.com/gohugoio/hugo), using the theme: [Photo-Grid](https://github.com/Chen-Zhe/photo-grid)"
     author = "Caleb A. Bostic-Gardner"
     description = "A home for my photograpy"
-    keywords = "Hugo, Hugo theme, grid theme, gallery"
+    keywords = "Hugo, gallery"
 
     # Body background and  text color
     bodybgcolor = "#3d3d3d"
     bodytextcolor = "#f2f2f2"
 
     # Footer text
-    footertext = "Made with [Photo-Grid](https://github.com/Chen-Zhe/photo-grid) theme for Hugo. --- All images © 2020 Caleb A. Bostic-Gardner"
+    footertext = "All images © 2020 Caleb A. Bostic-Gardner"
