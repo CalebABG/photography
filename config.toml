@@ -1,0 +1,21 @@
+# Site settings
+baseurl = "https://calebabg.github.io/"
+languageCode = "en-us"
+title = "CalebABG Photography"
+theme = "photo-grid"
+
+[params]
+    # Meta
+    no_exif = true
+    title = "Photography Portfolio"
+    subtitle = "This is a collection of some of my favorite photographs from my photography journey so far, please enjoy! Click on an image for more info!"
+    author = "Caleb A. Bostic-Gardner"
+    description = "Photo Grid - Grid Gallery For Hugo"
+    keywords = "Hugo, Hugo theme, grid theme, gallery"
+
+    # Body background and  text color
+    bodybgcolor = "#3d3d3d"
+    bodytextcolor = "#f2f2f2"
+
+    # Footer text
+    footertext = "Made with [Photo-Grid](https://github.com/Chen-Zhe/photo-grid) theme for Hugo. --- All images © 2020 Caleb A. Bostic-Gardner"
