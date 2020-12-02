@@ -10,7 +10,7 @@ theme = "photo-grid"
     title = "Photography Portfolio"
     subtitle = "This is a collection of some of my favorite photographs from my photography journey so far, please enjoy! Click on an image for more info!"
     author = "Caleb A. Bostic-Gardner"
-    description = "Photo Grid - Grid Gallery For Hugo"
+    description = "A home for my photograpy"
     keywords = "Hugo, Hugo theme, grid theme, gallery"
 
     # Body background and  text color
